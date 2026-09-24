@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="app-container">
       <header className="header">
-        <h1>My FYP Blog</h1>
+        <h1>Felix Fong's FYP Blog</h1>
         <p>Documenting my Final Year Project</p>
       </header>
       
